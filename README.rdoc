@@ -1,0 +1,14 @@
+==TURNOMETRO==
+Aplicacion descendiente de CTM-RCTM-CTL
+Objetivo:
+Optimizar los registros de asistencias a turnos de ayudantias
+Dependencias:
+MongoDB
+Plan de avance:
+- Definir modelo y configurar BD
+- Crear Wizard para Setup Inicial
+- Crear sitio de administracion del sistema
+- Wizards para el Admin
+- Sistema de Logeo
+- Visor de Horarios
+- Registro de Turnos
